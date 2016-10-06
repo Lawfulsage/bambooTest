@@ -188,6 +188,16 @@ namespace userDiscover
 
             this.outputbox.Text = ud.GetListOfSQLSA(username,password,server,SQLdb);
         }
+
+        private void input1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button10_Click_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }
 
